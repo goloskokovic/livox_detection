@@ -11,7 +11,7 @@ Livox Detection is a robust,real time detection package for [*Livox LiDARs*](htt
 
 # Dependencies
 - `python3.6+`
-- `tensorflow1.13+` (tested on 1.13.0)
+- `tensorflow1.13+` [tested on 1.13.0](https://github.com/davidenunes/tensorflow-wheels)
 - `pybind11`
 - `ros`
 
